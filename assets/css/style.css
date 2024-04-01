@@ -438,14 +438,14 @@ h6 {
 
 #hero h1 {
   margin: 0;
-  font-size: 48px;
+  font-size: 48px;x
   font-weight: 700;
   line-height: 56px;
-  color: #222222;
+  color: #77cbff;
 }
 
 #hero h2 {
-  color: #6f6f6f;
+  color: #82a7bc;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
